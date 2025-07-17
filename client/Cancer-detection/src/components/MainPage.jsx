@@ -23,7 +23,7 @@ export function MainPage() {
     formData.append('image', image);
 
     try {
-      const res = await fetch('http://127.0.0.1:8080/predict', {
+      const res = await fetch('http://127.0.0.1:8000/predict', {
         method: 'POST',
         body: formData,
       });
@@ -103,7 +103,7 @@ export function MainPage() {
 
       <footer className="text-center text-sm text-gray-400 px-9 py-8">
         <p>© 2025 Skin Scan | Not a replacement for professional diagnosis.</p>
-        <p>Made with 💜 by Esha & Arooj</p>
+        <p>Made with 💜 by Esha</p>
       </footer>
     </div>
   );

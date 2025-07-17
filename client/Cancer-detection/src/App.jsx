@@ -9,7 +9,7 @@ export function App() {
   useEffect(() => {
     const timer = setTimeout(() => {
       setShowMain(true);
-    }, 9500); // Slightly before 8000 for smoother exit
+    }, 9500); 
     return () => clearTimeout(timer);
   }, []);
 
