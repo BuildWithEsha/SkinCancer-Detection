@@ -1,12 +1,12 @@
 ## 🧬 Skin Cancer Detection with CNN 🧠
 
-A full-stack AI web app that classifies skin images as **Cancerous** or **Non-Cancerous** using a trained **Convolutional Neural Network (CNN)** model.
+A full-stack AI web app that classifies skin images as **Cancerous** or **Non-Cancerous** using a **Convolutional Neural Network (CNN)** model.
 
 ---
 <img width="1223" height="873" alt="Screenshot 2025-07-17 212423" src="https://github.com/user-attachments/assets/eaacee6d-4009-4efa-b288-2c03597f1d26" />
 
 ---
-  ![Recording2025-07-17221626-ezgif com-speed](https://github.com/user-attachments/assets/f457e91d-14e3-4842-9234-89b6f37b1516)
+![Recording2025-07-17221626-ezgif com-speed](https://github.com/user-attachments/assets/f457e91d-14e3-4842-9234-89b6f37b1516)
 
 
 ### 🚀 Features
